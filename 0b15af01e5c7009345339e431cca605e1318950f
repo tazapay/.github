@@ -1,0 +1,39 @@
+.github/pull_request_template.md
+  73a50276d9e37a05 1,3
+  da59ced808ce9982 4-9,12-14,16-23,26-27,29-30
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.10",
+  "base_commit_sha": "0b15af01e5c7009345339e431cca605e1318950f",
+  "prompts": {
+    "73a50276d9e37a05": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c5db4d69-476f-4607-b458-4674120cccfe",
+        "model": "claude-sonnet-4-5-20250929"
+      },
+      "human_author": "DhanushreeTaza <dhanushree@tazapay.com>",
+      "messages": [],
+      "total_additions": 3,
+      "total_deletions": 0,
+      "accepted_lines": 2,
+      "overriden_lines": 1,
+      "messages_url": "https://usegitai.com/cas/2433a361fa104dd37b1f12f78dd07943f4e6188bdea40fbaee982918c27c057f"
+    },
+    "da59ced808ce9982": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8c49ac11-b3c9-4a2a-99d5-35a63b0c14c6",
+        "model": "claude-sonnet-4-5-20250929"
+      },
+      "human_author": "DhanushreeTaza <dhanushree@tazapay.com>",
+      "messages": [],
+      "total_additions": 118,
+      "total_deletions": 25,
+      "accepted_lines": 21,
+      "overriden_lines": 3,
+      "messages_url": "https://usegitai.com/cas/e3cb63476a7e95902b0bfd50b6ec458bf9a211cd60efdb2355283ca8d4043081"
+    }
+  }
+}
